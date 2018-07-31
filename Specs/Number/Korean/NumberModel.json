@@ -713,48 +713,6 @@
 }
 ,
 {
-  "Input": "서른다섯",
-  "NotSupported": "javascript, python",
-  "Results": [
-    {
-      "Text": "서른다섯",
-      "TypeName": "number",
-      "Resolution": {
-        "value": "35"
-      }
-    }
-  ]
-}
-,
-{
-  "Input": "일곱",
-  "NotSupported": "javascript, python",
-  "Results": [
-    {
-      "Text": "일곱",
-      "TypeName": "number",
-      "Resolution": {
-        "value": "7"
-      }
-    }
-  ]
-}
-,
-{
-  "Input": "마흔 여덟",
-  "NotSupported": "javascript, python",
-  "Results": [
-    {
-      "Text": "마흔 여덟",
-      "TypeName": "number",
-      "Resolution": {
-        "value": "48"
-      }
-    }
-  ]
-}
-,
-{
   "Input": "1e10",
   "NotSupported": "javascript, python",
   "Results": [
